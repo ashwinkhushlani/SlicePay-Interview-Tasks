@@ -1,3 +1,4 @@
+# Initializing global variables
 min_amount = 100
 max_amount = 10000
 min_note = 100
